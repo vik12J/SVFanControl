@@ -16,7 +16,7 @@ This project was created because existing tools like *FanControl* lacked the fle
 Ready-to-use builds are available in the **[Releases](../../releases)** section.
 
 1. Open the **Releases** page.
-2. Download the latest `.zip` / `.exe` file.
+2. Download the latest `.zip` / `.7zip` file.
 3. Extract (if needed) and run the application.
 
 > No source code required — just download and run.
