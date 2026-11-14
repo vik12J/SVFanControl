@@ -37,6 +37,10 @@ Tools like FanControl are great, but I needed more flexibility and specific feat
 - This repository hosts **release builds** of the application.
 - For questions, suggestions, or bug reports, feel free to open an **Issue**.
 
-## 📄 License
+##Скриншоты
 
-Specify your license here (e.g., MIT, GPL-3.0), or remove this section if the project is not licensed for redistribution.
+![Node editor](1.png)
+![Node variants](4.png)
+![Fan and mode control](3.png)
+![Profile management](5.png)
+![Sensor monitoring](2.png)
