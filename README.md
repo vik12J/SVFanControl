@@ -25,6 +25,8 @@ Ready-to-use builds are available in the **[Releases](../../releases)** section.
 
 - Windows 10 or Windows 11
 - .NET 10 runtime (if not bundled with the build)
+- The program is written in .NET 10, runs only on Windows 10/11, and requires no installation.
+- The Lite version is smaller in size, but it requires the .NET 10 Desktop Runtime to be installed.
 
 ## 🧩 Why another fan control app?
 
