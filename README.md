@@ -37,7 +37,7 @@ Tools like FanControl are great, but I needed more flexibility and specific feat
 - This repository hosts **release builds** of the application.
 - For questions, suggestions, or bug reports, feel free to open an **Issue**.
 
-##Скриншоты
+##Screenshots
 
 ![Node editor](1.png)
 ![Node variants](4.png)
